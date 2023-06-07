@@ -44,7 +44,6 @@ Lucro ótimo
 ### Como utilizar?
 ### Clone o repositório
 ```
-Abra o Visual Studio, vá nos três pontos no topo da tela, Terminal, New Terminal. Execute o seguinte comando: 
 git clone https://github.com/MathCarv/Solu-oSimplex
 ```
 ### Entre no diretório
