@@ -1,6 +1,11 @@
 ### Introdução
 ```
 O intuito desse projeto é resolver quaisquer problemas que envolvam otimização para o método simplex.
+
+Utilize os coeficientes da função objetivo da forma: z - ax1 + bx2 = 0 no caso, os coeficientes são: -a e b
+
+Utilize os coeficientes das restrições da forma: 2x1 + 3x2 = 200 no caso, os coeficientes são 2 e 3 e o lado direito é 200
+
 ```
 ### Requisitos para rodar o projeto
 ```
