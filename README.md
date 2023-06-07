@@ -2,6 +2,10 @@
 ```
 O intuito desse projeto é resolver quaisquer problemas que envolvam otimização para o método simplex.
 ```
+### Requisitos para rodar o projeto
+```
+Python 3: https://www.python.org/getit/
+```
 ### Váriaveis de Entrada
 ```
 Coeficientes da função Objetivo
