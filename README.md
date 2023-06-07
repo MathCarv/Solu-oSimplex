@@ -67,7 +67,7 @@ python3 codigosimplexscratch.py
 ![image](https://github.com/MathCarv/Solu-oSimplex/assets/96321313/62d5de57-18e1-4451-9eaf-804f37ea93b1)
 ### Quinto passo: Coloque suas variáveis de Entrada
 ![image](https://github.com/MathCarv/Solu-oSimplex/assets/96321313/5ec3c9ea-2cd7-4d42-bbf2-c03298405a27)
-### Sexto passo: Analise sua solução e decida se deseja mudar os deltas de viabilidade
+### Sexto passo: Analise sua solução e decida se deseja acrescentar os deltas de viabilidade
 ![image](https://github.com/MathCarv/Solu-oSimplex/assets/96321313/abfafb27-3d99-459d-9fc8-4f8ea32675d1)
 
 
