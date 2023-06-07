@@ -36,12 +36,21 @@ Viabilidade
 Lucro ótimo
 ```
 ### Como utilizar?
+
+### Clone o repositório
 ```
 git clone https://github.com/MathCarv/Solu-oSimplex
 ```
+### Entre no diretório
 ```
 cd Solu-oSimplex
 ```
+### Rode o programa
 ```
 python3 codigosimplexscratch.py
 ```
+
+### Demonstração
+![image](https://github.com/MathCarv/Solu-oSimplex/assets/96321313/b60c059b-6226-4ab3-98ff-22d5526db3c6)
+
+
