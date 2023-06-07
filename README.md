@@ -6,6 +6,9 @@ O intuito desse projeto é resolver quaisquer problemas que envolvam otimizaçã
 ```
 Python 3: https://www.python.org/getit/
 ```
+```
+Visual Studio Code: https://code.visualstudio.com/
+```
 ### Váriaveis de Entrada
 ```
 Coeficientes da função Objetivo
