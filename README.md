@@ -31,12 +31,10 @@ Viabilidade
 ```
 Lucro ótimo
 ```
-### Clone o repositório
+### Como utilizar?
 ```
 git clone https://github.com/MathCarv/Solu-oSimplex
 ```
-
-### Rode o projeto Simplex
 ```
 cd Solu-oSimplex
 ```
