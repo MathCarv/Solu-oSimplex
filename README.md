@@ -1,27 +1,45 @@
 ### Introdução
 ```
-Projeto 01: Captura de tela para detecção de expressões faciais
+O intuito desse projeto é resolver quaisquer problemas que envolvam otimização para o método simplex.
+```
+### Váriaveis de Entrada
+```
+Coeficientes da função Objetivo
 ```
 ```
-Projeto 02: Contagem de objetos em uma imagem
+Coeficientes das restrições
 ```
-
+```
+Número de variáveis 
+```
+```
+Número de Restrições
+```
+```
+Deltas para variabilidade
+```
+### Váriaveis de Saída
+```
+Solução Ótima
+```
+```
+Preço-sombra
+```
+```
+Viabilidade
+```
+```
+Lucro ótimo
+```
 ### Clone o repositório
 ```
-git clone https://github.com/MathCarv/ProjetoC209
+git clone https://github.com/MathCarv/Solu-oSimplex
 ```
 
-### Rodar o primeiro projeto
+### Rode o projeto Simplex
 ```
-cd PrimeiroProjeto
-```
-```
-python3 capturaTela.py
-```
-### Rodar o segundo projeto
-```
-cd PrimeiroProjeto
+cd Solu-oSimplex
 ```
 ```
-python3 contagem_objetos.py
+python3 codigosimplexscratch.py
 ```
