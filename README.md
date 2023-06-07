@@ -12,7 +12,7 @@ Visual Studio Code: https://code.visualstudio.com/
 ```
 Git: https://git-scm.com/downloads
 ```
-### Váriaveis de Entrada
+### Variáveis de Entrada
 ```
 Coeficientes da função Objetivo
 ```
@@ -28,7 +28,7 @@ Número de Restrições
 ```
 Deltas para variabilidade
 ```
-### Váriaveis de Saída
+### Variáveis de Saída
 ```
 Solução Ótima
 ```
