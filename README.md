@@ -9,6 +9,9 @@ Python 3: https://www.python.org/getit/
 ```
 Visual Studio Code: https://code.visualstudio.com/
 ```
+```
+Git: https://git-scm.com/downloads
+```
 ### Váriaveis de Entrada
 ```
 Coeficientes da função Objetivo
@@ -39,9 +42,9 @@ Viabilidade
 Lucro ótimo
 ```
 ### Como utilizar?
-
 ### Clone o repositório
 ```
+Abra o Visual Studio, vá nos três pontos no topo da tela, Terminal, New Terminal. Execute o seguinte comando: 
 git clone https://github.com/MathCarv/Solu-oSimplex
 ```
 ### Entre no diretório
@@ -52,6 +55,7 @@ cd Solu-oSimplex
 ```
 python3 codigosimplexscratch.py
 ```
+
 
 ### Demonstração
 ![image](https://github.com/MathCarv/Solu-oSimplex/assets/96321313/b60c059b-6226-4ab3-98ff-22d5526db3c6)
